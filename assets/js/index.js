@@ -3,7 +3,7 @@
 // Sections: Today in Space | Launches | Planets
 // ============================================================
 
-const NASA_API_KEY = "DEMO_KEY"; // استبدلها بـ API Key الخاص بيك من https://api.nasa.gov
+const NASA_API_KEY = "jnq2GCxlK6Df1OUjbci63ZeXFXi4WPciSUVo59EK"; // استبدلها بـ API Key الخاص بيك من https://api.nasa.gov
 
 // ============================================================
 // 1. NAVIGATION - التنقل بين السكشنز
